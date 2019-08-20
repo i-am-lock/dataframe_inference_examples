@@ -1,4 +1,6 @@
 # dataframe_inference_examples
+full video: https://www.youtube.com/watch?v=haGvIsChF6k
+
 Here are examples for report "dataframe inference". Theme of the report is fast synchronization of research and production code branchs.  
   
 *Main idea*
